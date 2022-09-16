@@ -1,0 +1,2231 @@
+{
+  "recipes": [
+    {
+      "recipe": {
+        "label": "Halal Cart-Style White Sauce",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2e8/2e85a201522902833f37efa508274f2c.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7baca77d84d9c1afba652ad56af106ff94690ac62a2ae6558b3f1a800223fc57",
+        "source": "Epicurious",
+        "healthLabels": [
+          "Sugar-Conscious",
+          "Low Potassium",
+          "Kidney-Friendly",
+          "Keto-Friendly",
+          "Vegetarian",
+          "Pescatarian",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free",
+          "Kosher"
+        ],
+        "ingredientLines": [
+          "3/4 cup mayonnaise",
+          "1/2 cup plain Greek-style yogurt",
+          "2 tablespoons distilled white vinegar",
+          "1 teaspoon freshly ground black pepper",
+          "1 teaspoon sugar",
+          "1/2 teaspoon dried dill",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon kosher salt"
+        ],
+        "ingredients": [
+          {
+            "text": "3/4 cup mayonnaise",
+            "quantity": 0.75,
+            "measure": "cup",
+            "food": "mayonnaise",
+            "weight": 173.25,
+            "foodCategory": "condiments and sauces",
+            "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+          },
+          {
+            "text": "1/2 cup plain Greek-style yogurt",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "Greek-style yogurt",
+            "weight": 144,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/689/6891387401f579242e7303ce8ec00e18.jpg"
+          },
+          {
+            "text": "2 tablespoons distilled white vinegar",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "white vinegar",
+            "weight": 29.8,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+          },
+          {
+            "text": "1 teaspoon freshly ground black pepper",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "black pepper",
+            "weight": 2.3,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "1 teaspoon sugar",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "sugar",
+            "weight": 4.2,
+            "foodCategory": "sugars",
+            "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+          },
+          {
+            "text": "1/2 teaspoon dried dill",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "dried dill",
+            "weight": 0.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/927/927173abe613e0c9124c406d236e81bd.jpg"
+          },
+          {
+            "text": "1/2 teaspoon garlic powder",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "garlic powder",
+            "weight": 1.55,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5c3/5c3db1d5a1a16b1f0a74796f74dd5985.jpg"
+          },
+          {
+            "text": "1/2 teaspoon kosher salt",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "kosher salt",
+            "weight": 2.4270833334564377,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          }
+        ],
+        "calories": 1357.9564999999998,
+        "totalWeight": 355.6,
+        "totalTime": 0,
+        "cuisineType": [
+          "mediterranean"
+        ],
+        "mealType": [
+          "snack"
+        ],
+        "dishType": [
+          "condiments and sauces"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Serious Eats' Halal Cart-Style Chicken and Rice with White Sauce",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b7c/b7c8a76e3546f5a91db6d38d70cf7b06.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e76d26d969666162857b3becfe88c6423a8cc41b6a811797e14945c706f5af95",
+        "source": "Serious Eats",
+        "healthLabels": [
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free"
+        ],
+        "ingredientLines": [
+          "For the chicken:",
+          "2 tablespoons lemon juice",
+          "1 tablespoon chopped fresh oregano",
+          "1/2 teaspoon ground coriander",
+          "3 garlic cloves, roughly chopped (about 1 1/2 tablespoons)",
+          "1/4 cup light olive oil",
+          "Kosher salt and freshly ground black pepper",
+          "2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)",
+          "1 tablespoon vegetable or canola oil",
+          "For the rice:",
+          "2 tablespoons unsalted butter",
+          "1/2 teaspoon turmeric",
+          "1/4 teaspoon ground cumin",
+          "1 1/2 cups long-grain or Basmati rice",
+          "2 1/2 cups chicken broth",
+          "Kosher salt and freshly ground black pepper",
+          "For the sauce:",
+          "1/2 cup mayonnaise",
+          "1/2 cup Greek yogurt",
+          "1 tablespoon sugar",
+          "2 tablespoons white vinegar",
+          "1 teaspoon lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Kosher salt and freshly ground black pepper",
+          "To serve:",
+          "1 head iceberg lettuce, shredded",
+          "1 large tomato, cut into wedges",
+          "Fluffy pocketless pita bread, brushed in butter, lightly toasted, and cut into 1 × 3-inch strips",
+          "Harissa-style hot sauce"
+        ],
+        "ingredients": [
+          {
+            "text": "2 tablespoons lemon juice",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "lemon juice",
+            "weight": 30.4999999994844,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1 tablespoon chopped fresh oregano",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "oregano",
+            "weight": 2.9999999997971143,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+          },
+          {
+            "text": "1/2 teaspoon ground coriander",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "coriander",
+            "weight": 0.9,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+          },
+          {
+            "text": "3 garlic cloves, roughly chopped (about 1 1/2 tablespoons)",
+            "quantity": 1.5,
+            "measure": "tablespoon",
+            "food": "garlic",
+            "weight": 12.749999999784436,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "1/4 cup light olive oil",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "olive oil",
+            "weight": 54,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "Kosher salt",
+            "weight": 20.248249999994677,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 10.124124999997338,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)",
+            "quantity": 7,
+            "measure": "thigh",
+            "food": "skinless chicken thighs",
+            "weight": 1351,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/7f6/7f63ca77277a0b949d43f7b661ef87e7.jpg"
+          },
+          {
+            "text": "1 tablespoon vegetable or canola oil",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "canola oil",
+            "weight": 14,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+          },
+          {
+            "text": "2 tablespoons unsalted butter",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "unsalted butter",
+            "weight": 28.4,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "1/2 teaspoon turmeric",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "turmeric",
+            "weight": 1.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+          },
+          {
+            "text": "1/4 teaspoon ground cumin",
+            "quantity": 0.25,
+            "measure": "teaspoon",
+            "food": "cumin",
+            "weight": 0.525,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+          },
+          {
+            "text": "1 1/2 cups long-grain or Basmati rice",
+            "quantity": 1.5,
+            "measure": "cup",
+            "food": "Basmati rice",
+            "weight": 277.5,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/e35/e35ea1529983a3db51a32a1afa7b3837.jpg"
+          },
+          {
+            "text": "2 1/2 cups chicken broth",
+            "quantity": 2.5,
+            "measure": "cup",
+            "food": "chicken broth",
+            "weight": 600,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "Kosher salt",
+            "weight": 20.248249999994677,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 10.124124999997338,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "1/2 cup mayonnaise",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "mayonnaise",
+            "weight": 115.5,
+            "foodCategory": "condiments and sauces",
+            "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+          },
+          {
+            "text": "1/2 cup Greek yogurt",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "Greek yogurt",
+            "weight": 144,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/689/6891387401f579242e7303ce8ec00e18.jpg"
+          },
+          {
+            "text": "1 tablespoon sugar",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "sugar",
+            "weight": 12.4999999997887,
+            "foodCategory": "sugars",
+            "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+          },
+          {
+            "text": "2 tablespoons white vinegar",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "white vinegar",
+            "weight": 29.8,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+          },
+          {
+            "text": "1 teaspoon lemon juice",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "lemon juice",
+            "weight": 5.083333333591166,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1/4 cup chopped fresh parsley",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "parsley",
+            "weight": 15,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "Kosher salt",
+            "weight": 20.248249999994677,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 10.124124999997338,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "1 head iceberg lettuce, shredded",
+            "quantity": 1,
+            "measure": "head",
+            "food": "iceberg lettuce",
+            "weight": 525,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/3c0/3c00c5ba27678b2f8e1c58b342bd98c7.jpg"
+          },
+          {
+            "text": "1 large tomato, cut into wedges",
+            "quantity": 1,
+            "measure": "<unit>",
+            "food": "tomato",
+            "weight": 153.75,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+          },
+          {
+            "text": "Fluffy pocketless pita bread, brushed in butter, lightly toasted, and cut into 1 × 3-inch strips",
+            "quantity": 0,
+            "measure": null,
+            "food": "pita bread",
+            "weight": 0,
+            "foodCategory": "bread, rolls and tortillas",
+            "image": "https://www.edamam.com/food-img/b8c/b8c2794a59279b7e0553c27e0769fbaf.jpg"
+          },
+          {
+            "text": "Fluffy pocketless pita bread, brushed in butter, lightly toasted, and cut into 1 × 3-inch strips",
+            "quantity": 0,
+            "measure": null,
+            "food": "butter",
+            "weight": 0,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "Harissa-style hot sauce",
+            "quantity": 0,
+            "measure": null,
+            "food": "hot sauce",
+            "weight": 0,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+          }
+        ],
+        "calories": 4873.528244581579,
+        "totalWeight": 3417.839416153481,
+        "totalTime": 60,
+        "cuisineType": [
+          "french"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "main course"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Better-Than-Halal-Cart Rice",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/6b5/6b590eb3765460659f07898cfeade68e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=90c5001deb8201afec98c6620423d62f4788aa1118108b1f6015adeb61f56c1b",
+        "source": "The Daily Meal",
+        "dietLabels": [
+          "High-Fiber"
+        ],
+        "healthLabels": [
+          "Vegan",
+          "Vegetarian",
+          "Pescatarian",
+          "Dairy-Free",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free",
+          "Kosher"
+        ],
+        "ingredientLines": [
+          "2 Tablespoons extra-virgin olive oil",
+          "Pinch of saffron",
+          "1 dried bay leaf",
+          "1 3/4 Cup water",
+          "1 Cup basmati rice",
+          "1 ripe beefsteak tomato, chopped",
+          "1 Pound English peas, shucked",
+          "1 Teaspoon kosher salt"
+        ],
+        "ingredients": [
+          {
+            "text": "2 Tablespoons extra-virgin olive oil",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "extra-virgin olive oil",
+            "weight": 27,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "Pinch of saffron",
+            "quantity": 1,
+            "measure": "pinch",
+            "food": "saffron",
+            "weight": 0.043750000056215814,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/b7c/b7c71604d7d5e7f54ac461079e6fe175.jpg"
+          },
+          {
+            "text": "1 dried bay leaf",
+            "quantity": 1,
+            "measure": "<unit>",
+            "food": "bay leaf",
+            "weight": 0.6,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+          },
+          {
+            "text": "1 3/4 Cup water",
+            "quantity": 1.75,
+            "measure": "cup",
+            "food": "water",
+            "weight": 414.75,
+            "foodCategory": "water",
+            "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+          },
+          {
+            "text": "1 Cup basmati rice",
+            "quantity": 1,
+            "measure": "cup",
+            "food": "basmati rice",
+            "weight": 185,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/e35/e35ea1529983a3db51a32a1afa7b3837.jpg"
+          },
+          {
+            "text": "1 ripe beefsteak tomato, chopped",
+            "quantity": 1,
+            "measure": "<unit>",
+            "food": "beefsteak tomato",
+            "weight": 123,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+          },
+          {
+            "text": "1 Pound English peas, shucked",
+            "quantity": 1,
+            "measure": "pound",
+            "food": "peas",
+            "weight": 453.59237,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/5ed/5ed641d646c028598a90bdb9ece34fc8.jpg"
+          },
+          {
+            "text": "1 Teaspoon kosher salt",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "kosher salt",
+            "weight": 4.854166666912875,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          }
+        ],
+        "calories": 1305.4934447001742,
+        "totalWeight": 1208.8402866669692,
+        "totalTime": 0,
+        "cuisineType": [
+          "mediterranean"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "main course"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Kwik Meal Cart's Lamb from 'New York a la Cart'",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/658/658c2000be9ce6633e644eb07f248b9a.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=60277e02f0b6a7b71b78d0ffb13d44872fec78a7cd188e5b4c8c81ea3915f176",
+        "source": "Serious Eats",
+        "dietLabels": [
+          "Low-Carb"
+        ],
+        "healthLabels": [
+          "Sugar-Conscious",
+          "Keto-Friendly",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free",
+          "Immuno-Supportive"
+        ],
+        "ingredientLines": [
+          "1 pound boneless lamb shoulder roast, trimmed and cubed",
+          "1 teaspoon garlic powder",
+          "1 teaspoon onion powder",
+          "1 teaspoon ground cumin",
+          "1 teaspoon toasted and ground coriander",
+          "1/2 cup plain yogurt",
+          "1/4 cup green papaya, mashed",
+          "1 teaspoon canola oil",
+          "1 teaspoon salt",
+          "1 teaspoon pepper",
+          "White Sauce, for serving",
+          "Hot Sauce, for serving (see above)"
+        ],
+        "ingredients": [
+          {
+            "text": "1 pound boneless lamb shoulder roast, trimmed and cubed",
+            "quantity": 1,
+            "measure": "pound",
+            "food": "lamb shoulder roast",
+            "weight": 453.59237,
+            "foodCategory": "meats",
+            "image": "https://www.edamam.com/food-img/35c/35cd09ea1665452ca64fccf9e32df4e9.jpg"
+          },
+          {
+            "text": "1 teaspoon garlic powder",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "garlic powder",
+            "weight": 3.1,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5c3/5c3db1d5a1a16b1f0a74796f74dd5985.jpg"
+          },
+          {
+            "text": "1 teaspoon onion powder",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "onion powder",
+            "weight": 2.4,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1e7/1e73e6f5dd96bb233abc0fcc05fb0ec8.jpg"
+          },
+          {
+            "text": "1 teaspoon ground cumin",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "cumin",
+            "weight": 2.1,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+          },
+          {
+            "text": "1 teaspoon toasted and ground coriander",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "coriander",
+            "weight": 1.8,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+          },
+          {
+            "text": "1/2 cup plain yogurt",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "plain yogurt",
+            "weight": 122.5,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/933/933eb3791b3a2175e007f1607d56b7e2.jpg"
+          },
+          {
+            "text": "1/4 cup green papaya, mashed",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "papaya",
+            "weight": 36.25,
+            "foodCategory": "fruit",
+            "image": "https://www.edamam.com/food-img/ceb/ceb26874332d3523d92d79d44fa836ca.jpg"
+          },
+          {
+            "text": "1 teaspoon canola oil",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "canola oil",
+            "weight": 4.5,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+          },
+          {
+            "text": "1 teaspoon salt",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "salt",
+            "weight": 6,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "1 teaspoon pepper",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "pepper",
+            "weight": 2.9,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "Hot Sauce, for serving (see above)",
+            "quantity": 1,
+            "measure": "serving",
+            "food": "Hot Sauce",
+            "weight": 6,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+          }
+        ],
+        "calories": 1367.1993568000003,
+        "totalWeight": 637.6557595786356,
+        "totalTime": 720,
+        "cuisineType": [
+          "mediterranean"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "main course"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Halal Cart-Style Chicken and Rice with White Sauce Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/baf/baf26a02234114bcbc579decf2ab9ab4.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4d8cda1732d8bf49c6257ab048987029237af1db0dc262b3649324e6e6d6244c",
+        "dietLabels": [],
+        "healthLabels": [
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free"
+        ],
+        "ingredientLines": [
+          "2 tablespoons lemon juice",
+          "1 tablespoon oregano, chopped",
+          "1/2 teaspoon ground coriander",
+          "3 cloves garlic (about 1 ½ tablespoons), chopped roughly",
+          "1/4 cup light olive oil",
+          "Kosher salt and freshly ground black pepper, to taste",
+          "2 pounds (6-8 pieces) boneless, skinless chicken thighs, trimmed of excess fat",
+          "1 tablespoon vegetable or canola oil",
+          "2 tablespoons unsalted butter",
+          "1/2 teaspoon turmeric",
+          "1/4 teaspoon ground cumin",
+          "1 1/2 cup long-grain or Basmati rice",
+          "2 1/2 cups chicken broth",
+          "Kosher salt and freshly ground black pepper, to taste",
+          "1/2 cup mayonnaise",
+          "1/2 cup Greek yogurt",
+          "1 tablespoon sugar",
+          "2 tablespoons white vinegar",
+          "1 teaspoon lemon juice",
+          "1/4 cup parsley, chopped",
+          "2 teaspoons freshly ground black pepper",
+          "Salt, to taste",
+          "1 head iceberg lettuce, shredded",
+          "1 large tomato, cut into wedges",
+          "Fluffy pocketless pita bread, brushed with butter, toasted lightly, and cut into 1-by-3-inch strips",
+          "Harissa-style hot sauce, to taste"
+        ],
+        "ingredients": [
+          {
+            "text": "2 tablespoons lemon juice",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "lemon juice",
+            "weight": 30.4999999994844,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1 tablespoon oregano, chopped",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "oregano",
+            "weight": 2.9999999997971143,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+          },
+          {
+            "text": "1/2 teaspoon ground coriander",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "coriander",
+            "weight": 0.9,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+          },
+          {
+            "text": "3 cloves garlic (about 1 ½ tablespoons), chopped roughly",
+            "quantity": 1.5,
+            "measure": "tablespoon",
+            "food": "garlic",
+            "weight": 12.749999999784436,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "1/4 cup light olive oil",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "olive oil",
+            "weight": 54,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "Kosher salt",
+            "weight": 17.612958439994678,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 8.806479219997339,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "2 pounds (6-8 pieces) boneless, skinless chicken thighs, trimmed of excess fat",
+            "quantity": 2,
+            "measure": "pound",
+            "food": "skinless chicken thighs",
+            "weight": 907.18474,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/7f6/7f63ca77277a0b949d43f7b661ef87e7.jpg"
+          },
+          {
+            "text": "1 tablespoon vegetable or canola oil",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "canola oil",
+            "weight": 14,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+          },
+          {
+            "text": "2 tablespoons unsalted butter",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "unsalted butter",
+            "weight": 28.4,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "1/2 teaspoon turmeric",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "turmeric",
+            "weight": 1.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+          },
+          {
+            "text": "1/4 teaspoon ground cumin",
+            "quantity": 0.25,
+            "measure": "teaspoon",
+            "food": "cumin",
+            "weight": 0.525,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+          },
+          {
+            "text": "1 1/2 cup long-grain or Basmati rice",
+            "quantity": 1.5,
+            "measure": "cup",
+            "food": "Basmati rice",
+            "weight": 277.5,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/e35/e35ea1529983a3db51a32a1afa7b3837.jpg"
+          },
+          {
+            "text": "2 1/2 cups chicken broth",
+            "quantity": 2.5,
+            "measure": "cup",
+            "food": "chicken broth",
+            "weight": 600,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "Kosher salt",
+            "weight": 17.612958439994678,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "Kosher salt and freshly ground black pepper, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 8.806479219997339,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "1/2 cup mayonnaise",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "mayonnaise",
+            "weight": 115.5,
+            "foodCategory": "condiments and sauces",
+            "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+          },
+          {
+            "text": "1/2 cup Greek yogurt",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "Greek yogurt",
+            "weight": 144,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/689/6891387401f579242e7303ce8ec00e18.jpg"
+          },
+          {
+            "text": "1 tablespoon sugar",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "sugar",
+            "weight": 12.4999999997887,
+            "foodCategory": "sugars",
+            "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+          },
+          {
+            "text": "2 tablespoons white vinegar",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "white vinegar",
+            "weight": 29.8,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+          },
+          {
+            "text": "1 teaspoon lemon juice",
+            "quantity": 1,
+            "measure": "teaspoon",
+            "food": "lemon juice",
+            "weight": 5.083333333591166,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1/4 cup parsley, chopped",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "parsley",
+            "weight": 15,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+          },
+          {
+            "text": "2 teaspoons freshly ground black pepper",
+            "quantity": 2,
+            "measure": "teaspoon",
+            "food": "black pepper",
+            "weight": 4.6,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "Salt, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "Salt",
+            "weight": 17.612958439994678,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "1 head iceberg lettuce, shredded",
+            "quantity": 1,
+            "measure": "head",
+            "food": "iceberg lettuce",
+            "weight": 525,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/3c0/3c00c5ba27678b2f8e1c58b342bd98c7.jpg"
+          },
+          {
+            "text": "1 large tomato, cut into wedges",
+            "quantity": 1,
+            "measure": "<unit>",
+            "food": "tomato",
+            "weight": 153.75,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+          },
+          {
+            "text": "Fluffy pocketless pita bread, brushed with butter, toasted lightly, and cut into 1-by-3-inch strips",
+            "quantity": 0,
+            "measure": null,
+            "food": "pita bread",
+            "weight": 0,
+            "foodCategory": "bread, rolls and tortillas",
+            "image": "https://www.edamam.com/food-img/b8c/b8c2794a59279b7e0553c27e0769fbaf.jpg"
+          },
+          {
+            "text": "Fluffy pocketless pita bread, brushed with butter, toasted lightly, and cut into 1-by-3-inch strips",
+            "quantity": 0,
+            "measure": null,
+            "food": "butter",
+            "weight": 0,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "Harissa-style hot sauce, to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "hot sauce",
+            "weight": 0,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+          }
+        ],
+        "calories": 4316.031644415986,
+        "totalWeight": 2964.244940608668,
+        "totalTime": 0,
+        "cuisineType": [
+          "french"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "condiments and sauces"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Penne Without the Vodka",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/c4a/c4a064c6fff6a6913d9330b46a1bac4c.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=63bfb583a6c11afdccbcbb7135f10da2b0320b47c65cd8df252ce013e23fc888",
+        "source": "Epicurious",
+        "dietLabels": [
+          "Balanced",
+          "High-Fiber"
+        ],
+        "healthLabels": [
+          "Vegetarian",
+          "Pescatarian",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free",
+          "Kosher"
+        ],
+        "ingredientLines": [
+          "3–5 tablespoons olive oil, divided",
+          "1/2 cup chopped yellow onion",
+          "4 cloves garlic, crushed",
+          "1 (14 1/2-ounce) can plum tomatoes, unsalted and crushed",
+          "1/3 cup tomato sauce",
+          "1/3 cup white grape juice (not from concentrate)",
+          "2 tablespoons raw cane sugar",
+          "1/2 teaspoon sea salt, plus more to taste if desired",
+          "1/2 cup heavy whipping cream",
+          "1 (1-pound) package penne pasta, cooked and drizzled with olive oil to prevent sticking",
+          "1/2 cup shredded mozzarella cheese, for topping",
+          "2 tablespoons chopped basil, for garnish",
+          "1 tablespoon red pepper flakes"
+        ],
+        "ingredients": [
+          {
+            "text": "3–5 tablespoons olive oil, divided",
+            "quantity": 4,
+            "measure": "tablespoon",
+            "food": "olive oil",
+            "weight": 54,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "1/2 cup chopped yellow onion",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "yellow onion",
+            "weight": 80,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+          },
+          {
+            "text": "4 cloves garlic, crushed",
+            "quantity": 4,
+            "measure": "clove",
+            "food": "garlic",
+            "weight": 12,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "1 (14 1/2-ounce) can plum tomatoes, unsalted and crushed",
+            "quantity": 14.5,
+            "measure": "ounce",
+            "food": "plum tomatoes",
+            "weight": 411.0680853125,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+          },
+          {
+            "text": "1/3 cup tomato sauce",
+            "quantity": 0.3333333333333333,
+            "measure": "cup",
+            "food": "tomato sauce",
+            "weight": 81.66666666666666,
+            "foodCategory": "canned vegetables",
+            "image": null
+          },
+          {
+            "text": "1/3 cup white grape juice (not from concentrate)",
+            "quantity": 0.3333333333333333,
+            "measure": "cup",
+            "food": "grape juice",
+            "weight": 83.33333333333333,
+            "foodCategory": "sweetened beverages",
+            "image": "https://www.edamam.com/food-img/0c0/0c0f752bcc0be093323f0901c4196a5e.jpg"
+          },
+          {
+            "text": "2 tablespoons raw cane sugar",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "cane sugar",
+            "weight": 18.12499999969356,
+            "foodCategory": "sugars",
+            "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+          },
+          {
+            "text": "1/2 teaspoon sea salt, plus more to taste if desired",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "sea salt",
+            "weight": 2.4270833334564377,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "1/2 cup heavy whipping cream",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "heavy whipping cream",
+            "weight": 119,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/484/4848d71f6a14dd5076083f5e17925420.jpg"
+          },
+          {
+            "text": "1 (1-pound) package penne pasta, cooked and drizzled with olive oil to prevent sticking",
+            "quantity": 1,
+            "measure": "pound",
+            "food": "pasta",
+            "weight": 453.59237,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/296/296ff2b02ef3822928c3c923e22c7d19.jpg"
+          },
+          {
+            "text": "1/2 cup shredded mozzarella cheese, for topping",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "mozzarella cheese",
+            "weight": 129.9375,
+            "foodCategory": "Cheese",
+            "image": "https://www.edamam.com/food-img/92d/92d92d4a4dfe8c025cea407c9ce764c3.jpg"
+          },
+          {
+            "text": "2 tablespoons chopped basil, for garnish",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "basil",
+            "weight": 5.3,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f1/5f1b05685ac2b404236a5d1c1f3c8c10.jpg"
+          },
+          {
+            "text": "1 tablespoon red pepper flakes",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "red pepper flakes",
+            "weight": 2.312499999960903,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6cb/6cb8e4510251a322178f6e191b3a7b1b.jpeg"
+          }
+        ],
+        "calories": 3252.497698054959,
+        "totalWeight": 1452.762538645611,
+        "totalTime": 0,
+        "cuisineType": [
+          "italian"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "drinks"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "NYC Halal Cart Chicken with White Sauce recipes",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/753/7532bc3317f867e74014c91c465832f0?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8cb28da8c49b9f9b5bedd9dc4f036684e90e187a9bf568f25f318d5b808f9579",
+        "dietLabels": [
+          "Low-Carb"
+        ],
+        "healthLabels": [
+          "Sugar-Conscious",
+          "Keto-Friendly",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free"
+        ],
+        "ingredientLines": [
+          "1 lb boneless chicken thighs, cut into small cubes",
+          "1 tablespoon Spice Tree Organics NYC Halal Cart Chicken",
+          "1 ½ teaspoon vinegar",
+          "3 tablespoons olive oil",
+          "1 Medium onion, sliced into strips",
+          "sea salt",
+          "1/2 cup diced cherry tomatoes for garnish",
+          "1 tablespoon fresh minced parsley for garnish",
+          "¼ cup mayo",
+          "¼ cup sour cream",
+          "1 small garlic clove, finely grated",
+          "2 teaspoon white vinegar",
+          "½ teaspoon sugar",
+          "1 tablespoon water",
+          "sea salt",
+          "cracked black pepper",
+          "2 tsp chopped dill"
+        ],
+        "ingredients": [
+          {
+            "text": "1 lb boneless chicken thighs, cut into small cubes",
+            "quantity": 1,
+            "measure": "pound",
+            "food": "chicken thighs",
+            "weight": 453.59237,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/007/00792642367e1f55de680762f85cfb3b.jpg"
+          },
+          {
+            "text": "1 tablespoon Spice Tree Organics NYC Halal Cart Chicken",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "Chicken",
+            "weight": 8.749999999852065,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+          },
+          {
+            "text": "1 ½ teaspoon vinegar",
+            "quantity": 1.5,
+            "measure": "teaspoon",
+            "food": "vinegar",
+            "weight": 7.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+          },
+          {
+            "text": "3 tablespoons olive oil",
+            "quantity": 3,
+            "measure": "tablespoon",
+            "food": "olive oil",
+            "weight": 40.5,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "1 Medium onion, sliced into strips",
+            "quantity": 1,
+            "measure": "<unit>",
+            "food": "onion",
+            "weight": 110,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+          },
+          {
+            "text": "sea salt",
+            "quantity": 0,
+            "measure": null,
+            "food": "sea salt",
+            "weight": 5.138399808685225,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "1/2 cup diced cherry tomatoes for garnish",
+            "quantity": 0.5,
+            "measure": "cup",
+            "food": "cherry tomatoes",
+            "weight": 87.5,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+          },
+          {
+            "text": "1 tablespoon fresh minced parsley for garnish",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "parsley",
+            "weight": 3.8,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+          },
+          {
+            "text": "¼ cup mayo",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "mayo",
+            "weight": 57.75,
+            "foodCategory": "condiments and sauces",
+            "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+          },
+          {
+            "text": "¼ cup sour cream",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "sour cream",
+            "weight": 57.5,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+          },
+          {
+            "text": "1 small garlic clove, finely grated",
+            "quantity": 1,
+            "measure": "clove",
+            "food": "garlic",
+            "weight": 2.25,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "2 teaspoon white vinegar",
+            "quantity": 2,
+            "measure": "teaspoon",
+            "food": "white vinegar",
+            "weight": 10,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+          },
+          {
+            "text": "½ teaspoon sugar",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "sugar",
+            "weight": 2.1,
+            "foodCategory": "sugars",
+            "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+          },
+          {
+            "text": "1 tablespoon water",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "water",
+            "weight": 14.786764781,
+            "foodCategory": "water",
+            "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+          },
+          {
+            "text": "sea salt",
+            "quantity": 0,
+            "measure": null,
+            "food": "sea salt",
+            "weight": 5.138399808685225,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "cracked black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 2.5691999043426126,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "2 tsp chopped dill",
+            "quantity": 2,
+            "measure": "teaspoon",
+            "food": "dill",
+            "weight": 0.370833333352142,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/874/8740aacb8e1a348cd5eead1f0bb552d4.jpg"
+          }
+        ],
+        "calories": 1972.2322877929234,
+        "totalWeight": 862.194154556135,
+        "totalTime": 75,
+        "cuisineType": [
+          "american"
+        ],
+        "mealType": [
+          "snack"
+        ],
+        "dishType": [
+          "condiments and sauces"
+        ],
+        "totalNutrients": {
+          "ENERC_KCAL": {
+            "label": "Energy",
+            "quantity": 1972.2322877929234,
+            "unit": "kcal"
+          },
+          "FAT": {
+            "label": "Fat",
+            "quantity": 173.3858719071928,
+            "unit": "g"
+          },
+          "FASAT": {
+            "label": "Saturated",
+            "quantity": 39.861363081462095,
+            "unit": "g"
+          },
+          "FATRN": {
+            "label": "Trans",
+            "quantity": 0.39404101449985657,
+            "unit": "g"
+          },
+          "FAMS": {
+            "label": "Monounsaturated",
+            "quantity": 75.70920844861736,
+            "unit": "g"
+          },
+          "FAPU": {
+            "label": "Polyunsaturated",
+            "quantity": 47.56161987460725,
+            "unit": "g"
+          },
+          "CHOCDF": {
+            "label": "Carbs",
+            "quantity": 21.22773676382842,
+            "unit": "g"
+          },
+          "CHOCDF.net": {
+            "label": "Carbohydrates (net)",
+            "quantity": 0,
+            "unit": "g"
+          },
+          "FIBTG": {
+            "label": "Fiber",
+            "quantity": 3.750445075799076,
+            "unit": "g"
+          },
+          "SUGAR": {
+            "label": "Sugars",
+            "quantity": 10.795292879387794,
+            "unit": "g"
+          },
+          "SUGAR.added": {
+            "label": "Sugars, added",
+            "quantity": 2.0958,
+            "unit": "g"
+          },
+          "PROCNT": {
+            "label": "Protein",
+            "quantity": 80.26694022736767,
+            "unit": "g"
+          },
+          "CHOLE": {
+            "label": "Cholesterol",
+            "quantity": 503.50552259988905,
+            "unit": "mg"
+          },
+          "NA": {
+            "label": "Sodium",
+            "quantity": 1997.5156208437706,
+            "unit": "mg"
+          },
+          "CA": {
+            "label": "Calcium",
+            "quantity": 154.17695452204512,
+            "unit": "mg"
+          },
+          "MG": {
+            "label": "Magnesium",
+            "quantity": 117.18653428292586,
+            "unit": "mg"
+          },
+          "K": {
+            "label": "Potassium",
+            "quantity": 1458.9268504515794,
+            "unit": "mg"
+          },
+          "FE": {
+            "label": "Iron",
+            "quantity": 4.519677798952284,
+            "unit": "mg"
+          },
+          "ZN": {
+            "label": "Zinc",
+            "quantity": 6.627588298208932,
+            "unit": "mg"
+          },
+          "P": {
+            "label": "Phosphorus",
+            "quantity": 854.6781067486563,
+            "unit": "mg"
+          },
+          "VITA_RAE": {
+            "label": "Vitamin A",
+            "quantity": 263.98684574085115,
+            "unit": "µg"
+          },
+          "VITC": {
+            "label": "Vitamin C",
+            "quantity": 26.856208333346952,
+            "unit": "mg"
+          },
+          "THIA": {
+            "label": "Thiamin (B1)",
+            "quantity": 0.4508052493299455,
+            "unit": "mg"
+          },
+          "RIBF": {
+            "label": "Riboflavin (B2)",
+            "quantity": 0.8257541629943614,
+            "unit": "mg"
+          },
+          "NIA": {
+            "label": "Niacin (B3)",
+            "quantity": 22.384591650730208,
+            "unit": "mg"
+          },
+          "VITB6A": {
+            "label": "Vitamin B6",
+            "quantity": 1.878735437287821,
+            "unit": "mg"
+          },
+          "FOLDFE": {
+            "label": "Folate equivalent (total)",
+            "quantity": 59.01928508375758,
+            "unit": "µg"
+          },
+          "FOLFD": {
+            "label": "Folate (food)",
+            "quantity": 59.01928508375758,
+            "unit": "µg"
+          },
+          "FOLAC": {
+            "label": "Folic acid",
+            "quantity": 0,
+            "unit": "µg"
+          },
+          "VITB12": {
+            "label": "Vitamin B12",
+            "quantity": 3.000397693999542,
+            "unit": "µg"
+          },
+          "VITD": {
+            "label": "Vitamin D",
+            "quantity": 0.7010923699997043,
+            "unit": "µg"
+          },
+          "TOCPHA": {
+            "label": "Vitamin E",
+            "quantity": 7.59506365600472,
+            "unit": "mg"
+          },
+          "VITK1": {
+            "label": "Vitamin K",
+            "quantity": 108.98922001340664,
+            "unit": "µg"
+          },
+          "Sugar.alcohol": {
+            "label": "Sugar alcohol",
+            "quantity": 0,
+            "unit": "g"
+          },
+          "WATER": {
+            "label": "Water",
+            "quantity": 567.4727048862937,
+            "unit": "g"
+          }
+        }
+      }
+    },
+    {
+      "recipe": {
+        "label": "Halal Cart's Middle Eastern Chicken and Rice recipes",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/56a/56a74ce1df7789ddbde8d7accf241896?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6f451236cd5c6506de412cdd6bf1f8c525f6a478ed9b76206a2f16a79d783101",
+        "dietLabels": [],
+        "healthLabels": [
+          "Gluten-Free",
+          "Wheat-Free",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free"
+        ],
+        "ingredientLines": [
+          "http://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
+          "2 tablespoons lemon juice",
+          "1 tablespoon chopped fresh oregano",
+          "½ teaspoon ground coriander",
+          "3 garlic cloves, roughly chopped (about 1½ tablespoons)",
+          "¼ cup light olive oil",
+          "ground black pepper",
+          "kosher salt",
+          "2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)",
+          "1 tablespoon vegetable or canola oil",
+          "2 tablespoons unsalted butter",
+          "½ teaspoon turmeric",
+          "¼ teaspoon ground cumin",
+          "1½ cups long-grain or Basmati rice",
+          "2½ cups chicken broth",
+          "ground black pepper",
+          "kosher salt",
+          "1 cup Greek yogurt",
+          "1-2 tablespoons Sriracha sauce",
+          "2 cloves garlic, minced",
+          "salt",
+          "pepper"
+        ],
+        "ingredients": [
+          {
+            "text": "http://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
+            "quantity": 0,
+            "measure": null,
+            "food": "chicken",
+            "weight": 0,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+          },
+          {
+            "text": "http://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
+            "quantity": 0,
+            "measure": null,
+            "food": "rice",
+            "weight": 0,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/0fc/0fc9fa8a3e0276198d75b2e259068f8a.jpg"
+          },
+          {
+            "text": "2 tablespoons lemon juice",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "lemon juice",
+            "weight": 30.4999999994844,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1 tablespoon chopped fresh oregano",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "oregano",
+            "weight": 2.9999999997971143,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+          },
+          {
+            "text": "½ teaspoon ground coriander",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "coriander",
+            "weight": 0.9,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+          },
+          {
+            "text": "3 garlic cloves, roughly chopped (about 1½ tablespoons)",
+            "quantity": 1.5,
+            "measure": "tablespoon",
+            "food": "garlic",
+            "weight": 12.749999999784436,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "¼ cup light olive oil",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "olive oil",
+            "weight": 54,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 8.067674999992906,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "kosher salt",
+            "quantity": 0,
+            "measure": null,
+            "food": "kosher salt",
+            "weight": 16.135349999985813,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)",
+            "quantity": 7,
+            "measure": "thigh",
+            "food": "skinless chicken thighs",
+            "weight": 1351,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/7f6/7f63ca77277a0b949d43f7b661ef87e7.jpg"
+          },
+          {
+            "text": "1 tablespoon vegetable or canola oil",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "canola oil",
+            "weight": 14,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+          },
+          {
+            "text": "2 tablespoons unsalted butter",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "unsalted butter",
+            "weight": 28.4,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "½ teaspoon turmeric",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "turmeric",
+            "weight": 1.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+          },
+          {
+            "text": "¼ teaspoon ground cumin",
+            "quantity": 0.25,
+            "measure": "teaspoon",
+            "food": "cumin",
+            "weight": 0.525,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+          },
+          {
+            "text": "1½ cups long-grain or Basmati rice",
+            "quantity": 1.5,
+            "measure": "cup",
+            "food": "Basmati rice",
+            "weight": 277.5,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/e35/e35ea1529983a3db51a32a1afa7b3837.jpg"
+          },
+          {
+            "text": "2½ cups chicken broth",
+            "quantity": 2.5,
+            "measure": "cup",
+            "food": "chicken broth",
+            "weight": 600,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+          },
+          {
+            "text": "ground black pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 8.067674999992906,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "kosher salt",
+            "quantity": 0,
+            "measure": null,
+            "food": "kosher salt",
+            "weight": 16.135349999985813,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "1 cup Greek yogurt",
+            "quantity": 1,
+            "measure": "cup",
+            "food": "Greek yogurt",
+            "weight": 288,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/689/6891387401f579242e7303ce8ec00e18.jpg"
+          },
+          {
+            "text": "1-2 tablespoons Sriracha sauce",
+            "quantity": 1.5,
+            "measure": "tablespoon",
+            "food": "Sriracha sauce",
+            "weight": 21.149999998569665,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+          },
+          {
+            "text": "2 cloves garlic, minced",
+            "quantity": 2,
+            "measure": "clove",
+            "food": "garlic",
+            "weight": 6,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "salt",
+            "quantity": 0,
+            "measure": null,
+            "food": "salt",
+            "weight": 16.135349999985813,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "pepper",
+            "quantity": 0,
+            "measure": null,
+            "food": "pepper",
+            "weight": 8.067674999992906,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          }
+        ],
+        "calories": 4033.897342748817,
+        "totalWeight": 2722.320136042068,
+        "totalTime": 60,
+        "cuisineType": [
+          "chinese",
+          "middle eastern"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "main course"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Sautéed Mushrooms",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/c6d/c6db6755737f1d5c4c71af419d2d6f1d.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=631f7429b78fa5bac35794cf1e3a19c7670b0bc09ed3ce7cfc43ff16acc57a15",
+        "source": "food.com",
+        "dietLabels": [
+          "Low-Carb",
+          "Low-Sodium"
+        ],
+        "healthLabels": [
+          "Sugar-Conscious",
+          "Keto-Friendly",
+          "Vegetarian",
+          "Pescatarian",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free",
+          "Kosher",
+          "Immuno-Supportive"
+        ],
+        "ingredientLines": [
+          "30 g butter",
+          "1⁄2 tablespoon olive oil",
+          "1⁄2 tablespoon balsamic vinegar (not halal)",
+          "1 garlic clove, crushed",
+          "1⁄8 teaspoon dried oregano",
+          "500 g crimini button mushrooms, sliced"
+        ],
+        "ingredients": [
+          {
+            "text": "30 g butter",
+            "quantity": 30,
+            "measure": "gram",
+            "food": "butter",
+            "weight": 30,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "1⁄2 tablespoon olive oil",
+            "quantity": 0.5,
+            "measure": "tablespoon",
+            "food": "olive oil",
+            "weight": 6.75,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "1⁄2 tablespoon balsamic vinegar (not halal)",
+            "quantity": 0.5,
+            "measure": "tablespoon",
+            "food": "balsamic vinegar",
+            "weight": 8,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/90a/90a1f211768e166ecfff19e8b4747498.jpg"
+          },
+          {
+            "text": "1 garlic clove, crushed",
+            "quantity": 1,
+            "measure": "clove",
+            "food": "garlic",
+            "weight": 3,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "1⁄8 teaspoon dried oregano",
+            "quantity": 0.125,
+            "measure": "teaspoon",
+            "food": "dried oregano",
+            "weight": 0.125,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+          },
+          {
+            "text": "500 g crimini button mushrooms, sliced",
+            "quantity": 500,
+            "measure": "gram",
+            "food": "button mushrooms",
+            "weight": 500,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/d63/d639cf4a2afc7407c1d1ce286028136b.jpg"
+          }
+        ],
+        "calories": 396.61125000000004,
+        "totalWeight": 547.875,
+        "totalTime": 40,
+        "cuisineType": [
+          "french"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "starter"
+        ]
+      }
+    },
+    {
+      "recipe": {
+        "label": "Halal Cart Chicken and Rice",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/027/027fd3996d9c0af841cb326460afe431.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNt1ezhmFbOHOQ%2FLmtM2N7SmN4cLAZW9FTRXC8CCpflgIgAmwDMIxSxXVyumRCusMzosBaVOW5idygPGoXjioVF5wq0gQIShAAGgwxODcwMTcxNTA5ODYiDBvTcoJQLh1jZFZt1CqvBNcWHSwp6JP6B3qP7CI5UHMDQOhhdL1kelheVfI8xMDRCckaxudO%2B6tZaJt%2BQFLwLzEpRqTFrBer3P3ci9Dzox2UHzhfjM0%2FJ40i9haIxErmNslnvFqy7LR7SLqpJ0U5i6G0q%2BKId5An4t2Q6s9cOZL7ObvjtQhihiZjujCW7BT7ufAGbA953kESnztmjpmAbxkuuJrDz9ugghq1KaK41mzOAeYHb87djg5aaEkgzVy5cC%2B9QC3qXdKSH4xtVA1CVRPu99%2BEscQpt64uy4if%2B4MY7CrSGdvYYF5CYzxL4RuvricuNJCerN3Ws8KNiO0zwTuj%2Fo7UgcfBpWF2mouoLfZG1Kg18Rq97F6%2Bigmn%2BAvQAjiCT6Ef0EZ215p5YkhtiLeMWVELrgxAwWItyfdT1Pp39ouyAqlKFsfEtGqY788uZVLHNvzOl6n%2FfBm4PJMgUjpD7ncfYYGPBDm78OavRKvpl%2BKj06J3Ol8Azh8cIsm4oHGeI2wc12whW3b%2Brtz7IcuRKdL6jq0eVFZ%2BhULYVU9RLbedzHKzKDlXp09WFbtHMB0QJt1UAbazcwboRG3RpNhs1Hp6CBQ2TrZGCgirWL7rRXjCAOV39rtximjUrsOzSmRZwmKVhcclrtakdgcNPf%2FKHBV9zpu4QOFdrOua3ufTdKKD%2F03A8n0aESidbiFLV7ZAviGKN%2BvrsWLzv1ICpoVmJfjBvkHwnudozvxoDYdyelKZk76RgOFniAWMwnUwz%2F%2B4mAY6qQGtGN0mf9ORv3hXrsKRSUzXaqh3GyEwaLH%2FaYrmD4Xa08WviASUqLOIvdbup%2BSw9et%2FfaomhUtQKc6Qvz8k5t9CT3MjeseQu8k0EXQB6cilVsZ4FdARKORDaLrDxRAJStQa8peG0PqQSNVg%2FjtxYvILuLtiy3sOBD2Is0Jtw7y1cPUG%2BjGolqfCQCkDlTzBQ4%2B1oGlWvNFaixDBpOLEQnyarz6Clxc2XWD3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220830T175325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIPXOO7HA%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6c42f473451456518eca735c79c5df3432b63544d91bbc09d1716ed6f4a01486",
+        "source": "Allrecipes",
+        "yield": 8,
+        "dietLabels": [],
+        "healthLabels": [
+          "Sugar-Conscious",
+          "Gluten-Free",
+          "Wheat-Free",
+          "Egg-Free",
+          "Peanut-Free",
+          "Tree-Nut-Free",
+          "Soy-Free",
+          "Fish-Free",
+          "Shellfish-Free",
+          "Pork-Free",
+          "Red-Meat-Free",
+          "Crustacean-Free",
+          "Celery-Free",
+          "Mustard-Free",
+          "Sesame-Free",
+          "Lupine-Free",
+          "Mollusk-Free",
+          "Alcohol-Free"
+        ],
+        "ingredientLines": [
+          "Chicken:",
+          "1/4 cup light olive oil",
+          "2 tablespoons lemon juice",
+          "1 1/2 tablespoons coarsely chopped garlic",
+          "1 tablespoon chopped fresh oregano",
+          "1/2 teaspoon ground coriander",
+          "kosher salt and ground black pepper to taste",
+          "2 pounds boneless chicken thighs, trimmed of excess fat",
+          "Yogurt Sauce:",
+          "1 cup Greek yogurt",
+          "1 tablespoon sriracha sauce, or more to taste",
+          "2 cloves garlic, minced",
+          "Rice:",
+          "2 tablespoons unsalted butter",
+          "1/2 teaspoon ground turmeric",
+          "1/4 teaspoon ground cumin",
+          "1 1/2 cups long-grain rice",
+          "2 1/2 cups chicken broth"
+        ],
+        "ingredients": [
+          {
+            "text": "1/4 cup light olive oil",
+            "quantity": 0.25,
+            "measure": "cup",
+            "food": "olive oil",
+            "weight": 54,
+            "foodCategory": "Oils",
+            "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+          },
+          {
+            "text": "2 tablespoons lemon juice",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "lemon juice",
+            "weight": 30.4999999994844,
+            "foodCategory": "100% juice",
+            "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+          },
+          {
+            "text": "1 1/2 tablespoons coarsely chopped garlic",
+            "quantity": 1.5,
+            "measure": "tablespoon",
+            "food": "garlic",
+            "weight": 12.749999999784436,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "1 tablespoon chopped fresh oregano",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "oregano",
+            "weight": 2.9999999997971143,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+          },
+          {
+            "text": "1/2 teaspoon ground coriander",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "coriander",
+            "weight": 0.9,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+          },
+          {
+            "text": "kosher salt and ground black pepper to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "kosher salt",
+            "weight": 13.346158439988676,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+          },
+          {
+            "text": "kosher salt and ground black pepper to taste",
+            "quantity": 0,
+            "measure": null,
+            "food": "black pepper",
+            "weight": 6.673079219994338,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+          },
+          {
+            "text": "2 pounds boneless chicken thighs, trimmed of excess fat",
+            "quantity": 2,
+            "measure": "pound",
+            "food": "chicken thighs",
+            "weight": 907.18474,
+            "foodCategory": "Poultry",
+            "image": "https://www.edamam.com/food-img/007/00792642367e1f55de680762f85cfb3b.jpg"
+          },
+          {
+            "text": "1 cup Greek yogurt",
+            "quantity": 1,
+            "measure": "cup",
+            "food": "Greek yogurt",
+            "weight": 288,
+            "foodCategory": "yogurt",
+            "image": "https://www.edamam.com/food-img/689/6891387401f579242e7303ce8ec00e18.jpg"
+          },
+          {
+            "text": "1 tablespoon sriracha sauce, or more to taste",
+            "quantity": 1,
+            "measure": "tablespoon",
+            "food": "sriracha sauce",
+            "weight": 14.099999999046444,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+          },
+          {
+            "text": "2 cloves garlic, minced",
+            "quantity": 2,
+            "measure": "clove",
+            "food": "garlic",
+            "weight": 6,
+            "foodCategory": "vegetables",
+            "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+          },
+          {
+            "text": "2 tablespoons unsalted butter",
+            "quantity": 2,
+            "measure": "tablespoon",
+            "food": "unsalted butter",
+            "weight": 28.4,
+            "foodCategory": "Dairy",
+            "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+          },
+          {
+            "text": "1/2 teaspoon ground turmeric",
+            "quantity": 0.5,
+            "measure": "teaspoon",
+            "food": "ground turmeric",
+            "weight": 1.5,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+          },
+          {
+            "text": "1/4 teaspoon ground cumin",
+            "quantity": 0.25,
+            "measure": "teaspoon",
+            "food": "cumin",
+            "weight": 0.525,
+            "foodCategory": "Condiments and sauces",
+            "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+          },
+          {
+            "text": "1 1/2 cups long-grain rice",
+            "quantity": 1.5,
+            "measure": "cup",
+            "food": "long-grain rice",
+            "weight": 277.5,
+            "foodCategory": "grains",
+            "image": "https://www.edamam.com/food-img/e49/e4946f328d36095b279369b7bf47850a.jpg"
+          },
+          {
+            "text": "2 1/2 cups chicken broth",
+            "quantity": 2.5,
+            "measure": "cup",
+            "food": "chicken broth",
+            "weight": 600,
+            "foodCategory": "canned soup",
+            "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+          }
+        ],
+        "calories": 4235.5299542411085,
+        "totalWeight": 2238.9358891526153,
+        "totalTime": 255,
+        "cuisineType": [
+          "american"
+        ],
+        "mealType": [
+          "lunch/dinner"
+        ],
+        "dishType": [
+          "main course"
+        ]
+      }
+    }
+  ]
+}
