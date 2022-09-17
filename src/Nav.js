@@ -1,8 +1,11 @@
-import React from "react";
+import React, {useContext} from "react";
 import {Link} from "react-router-dom";
+import {MoviesContext} from "./movies/MoviesContext";
 
 
 function Nav(){
+
+    const [movies, setMovies] = useContext(MoviesContext);
   return (
       <div>
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -28,7 +31,11 @@ function Nav(){
                           <Link className="nav-link" to="/recipes">
                               Recipies
                           </Link>
-
+                      </li>
+                      <li className="nav-item">
+                          <Link className="nav-link" to="/movies">
+                              see Movies: {movies.length}
+                          </Link>
                       </li>
                   </ul>
               </div>
